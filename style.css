@@ -1,0 +1,38 @@
+#title{
+    text-align: center
+}
+
+#input-section{
+   width: 500px;
+   margin: 0 auto;
+    
+}
+
+#todo-input{
+    width: 430px;
+}
+
+span{
+    color:blue;
+}
+
+
+#todo-container{
+    padding: 0;
+    width: 50%;
+    margin: 10px auto;
+    list-style-type: none;
+}
+
+
+.item{
+    padding:10px;
+    border:1px solid black;
+    margin-bottom: 10px;
+}
+
+.item-button{
+    float:right;
+    color:red;
+}
+
